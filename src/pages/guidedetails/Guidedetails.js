@@ -20,7 +20,6 @@ const Guidedetails = () => {
   }
 
   const checkBoxHandler = (e)=>{
-    // e.target.checked&&console.log(e.target.value)
     e.target.checked?setTotalCharges(totalCharges+parseInt(e.target.value)):
     setTotalCharges(totalCharges-parseInt(e.target.value))
   }

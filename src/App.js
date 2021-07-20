@@ -9,15 +9,12 @@ import { useSelector } from 'react-redux';
 import PrivateRoute from './routes/PrivateRoute';
 
 function App() {
-  const userStatus = useSelector(state => state.loginReducer.userStatus)
   return (
     <div className="App">
       <Router>
         <Navbar />
         <Switch>
           <Route exact path='/' component={Home} />
-          {/* <Route exact path='/:guidelist' component={Guidelist} />
-          <Route exact path='/:guidelist/:guidename' component={Guidedetails} /> */}
           <PrivateRoute exact path='/guide/:guidelist' component={Guidelist}/>
           <PrivateRoute exact path='/guide/:guidelist/:guidename' component={Guidedetails}/>
           <Route exact path='/login' component={Login} />
