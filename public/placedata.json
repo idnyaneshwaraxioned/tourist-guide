@@ -1,0 +1,161 @@
+[
+  {
+    "visitlocation":"Mumbai",
+    "places":[
+      {
+        "name":"Marin Drive",
+        "trourPlace":"marindrive",
+        "img":"marin-drive.jpg",
+        "discription":"Marine Drive is a 3.6-kilometre-long Promenade along the Netaji Subhash Chandra Bose Road in Mumbai, India. Often, the names Marine Drive and Marines are used interchangeably to refer to this 3.9 km stretch.",
+        "guide":[
+          {"name":"Ajay","img":"ajay.png"},
+          {"name":"Akshay","img":"akshay.jpg"},
+          {"name":"Salman","img":"salman.jpg"},
+          {"name":"Deepika","img":"deepika.png"}
+        ]
+      },
+      {
+        "name":"National Park",
+        "trourPlace":"nationalpark",
+        "img":"national-park.jpg",
+        "discription":"Sanjay Gandhi National Park is a 87 km2 (34 sq mi) protected area in Mumbai, Maharashtra State in India. It was established in 1996 with headquarters at Borivali.",
+        "guide":[
+          {"name":"Ajay","img":"ajay.png"},
+          {"name":"Deepika","img":"deepika.png"},
+          {"name":"Imran","img":"imran.jpg"},
+          {"name":"karan","img":"karan.jpg"}
+        ]
+      },
+      {
+        "name":"Gate way of India",
+        "trourPlace":"gatewayofindia",
+        "img":"gateway-india.jpg",
+        "discription":"The Gateway of India is an arch-monument built in the early 20th century in the city of Mumbai, India. It was erected to commemorate the landing in December 1911 at Wellington Pier, Mumbai of King-Emperor George V and Queen-Empress Mary, the first British monarch to visit India.",
+        "guide":[
+          {"name":"Salman","img":"salman.jpg"},
+          {"name":"Deepika","img":"deepika.png"},
+          {"name":"Imran","img":"imran.jpg"},
+          {"name":"Sanjay","img":"sanjay.jpg"}
+        ]
+      },
+      {
+        "name":"Haji Ali Dargah",
+        "trourPlace":"hajialidargah",
+        "img":"haji-ali.jpg",
+        "discription":"An exquisite example of Indo-Islamic Architecture, associated with legends about doomed lovers, the dargah contains the tomb of Haji Ali Shah Bukhari. Bukhari was a Sufi saint and a wealthy merchant from Uzbekistan. Near the heart of the city proper, the dargah is one of the most recognisable landmarks of Mumbai.",
+        "guide":[
+          {"name":"Ajay","img":"ajay.png"},
+          {"name":"Deepika","img":"deepika.png"},
+          {"name":"Imran","img":"imran.jpg"},
+          {"name":"karan","img":"karan.jpg"}
+        ]
+      }
+    ]
+  },
+  {
+    "visitlocation":"Delhi",
+    "places":[
+      {
+        "name":"Red Fort",
+        "trourPlace":"redfort",
+        "img":"red-fort.jpg",
+        "discription":"The Red Fort is a historic fort in the city of Delhi (in Old Delhi) in India that served as the main residence of the Mughal Emperors.",
+        "guide":[
+          {"name":"tom","img":"tom.png"},
+          {"name":"herry","img":"herry.jpg"},
+          {"name":"Pinky","img":"pinky.png"},
+          {"name":"john","img":"john.jpg"}
+        ]
+      },
+      {
+        "name":"Qutub Minar",
+        "trourPlace":"qutubminar",
+        "img":"qutub-minar.jpg",
+        "discription":"Completed in the 12th century, the beautiful Qutub Minar-India's tallest minaret and now a UNESCO Word Heritage Site-attracts many international visitors eager to climb to the top for its breathtaking views of the surrounding area.",
+        "guide":[
+          {"name":"john","img":"john.jpg"},
+          {"name":"herry","img":"herry.png"},
+          {"name":"martin","img":"martin.jpg"},
+          {"name":"tom","img":"tom.png"}
+        ]
+      },
+      {
+        "name":"India Gate",
+        "trourPlace":"indiagate",
+        "img":"india-gate.jpg",
+        "discription":"Looking a little like the famous Arc de Triomphe in Paris, the equally impressive India Gate is a magnificent stone arch built as a memorial to Indian soldiers killed in WWI. ",
+        "guide":[
+          {"name":"martin","img":"martin.jpg"},
+          {"name":"tom","img":"tom.png"},
+          {"name":"herry","img":"herry.png"},
+          {"name":"john","img":"john.jpg"}
+        ]
+      },
+      {
+        "name":"The Lotus Temple",
+        "trourPlace":"thelotustemple",
+        "img":"lotus-temple.jpg",
+        "discription":"The magnificent Bahá'í House of Worship, also known as the Lotus Temple due to its nine sides and stunning central dome, is an architectural masterpiece.",
+        "guide":[
+          {"name":"tom","img":"tom.png"},
+          {"name":"herry","img":"herry.png"},
+          {"name":"Pinky","img":"pinky.png"},
+          {"name":"john","img":"john.jpg"}
+        ]
+      }
+    ]
+  },
+  {
+    "visitlocation":"Keral",
+    "places":[
+      {
+        "name":"Wayanad",
+        "trourPlace":"wayanad",
+        "img":"wayanad.jpg",
+        "discription":"Cradled in the lap of the Western Ghats, Wayanad truly deserves a top rank in the list of places to visit in Kerala.",
+        "guide":[
+          {"name":"bob","img":"bob.png"},
+          {"name":"shan","img":"shan.jpg"},
+          {"name":"luice","img":"luice.png"},
+          {"name":"babar","img":"babar.jpg"}
+        ]
+      },
+      {
+        "name":"Cochin",
+        "trourPlace":"cochin",
+        "img":"cochin.jpg",
+        "discription":"Kochi or Cochin is a unique placein God’s Own Country that is perfectly blended with cultural values and modern ideas! Fondly called the ‘Queen of the Arabian Sea’, this imposing port-city has always been an attraction point since the beginning of history.",
+        "guide":[
+          {"name":"shan","img":"shan.jpg"},
+          {"name":"babar","img":"babar.jpg"},
+          {"name":"perry","img":"perry.jpg"},
+          {"name":"kazi","img":"kazi.png"}
+        ]
+      },
+      {
+        "name":"Munnar",
+        "trourPlace":"munar",
+        "img":"munnar.png",
+        "discription":"Rising 1,600m above the sea level, a vacation in the beguiling locales of this hilly retreat is all about the lofty clouds, picturesque mountains, rolling hills, and a soothing ambience.",
+        "guide":[
+          {"name":"luice","img":"imran.png"},
+          {"name":"shan","img":"shan.jpg"},
+          {"name":"luice","img":"luice.png"},
+          {"name":"perry","img":"perry.jpg"}
+        ]
+      },
+      {
+        "name":"Kumarakom",
+        "trourPlace":"kumarakom",
+        "img":"kumarakom.jpg",
+        "discription":"Adorned by the magical charm of the Vembanad Lake, Kumarakom is another beguiling  backwater destination in God’s Own Country.",
+        "guide":[
+          {"name":"bob","img":"bob.png"},
+          {"name":"shan","img":"shan.jpg"},
+          {"name":"luice","img":"luice.png"},
+          {"name":"babar","img":"babar.jpg"}
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name":"Akshay",
+    "img":"akshay.jpg",
+    "experience":"2 Years",
+    "guidCharges":"700rs",
+    "guidPlace":[{"place":"Bombay High Court","charges":500},{"place":"Gate Way of India","charges":200},{"place":"Marine Drive","charges":200}]
+  },
+  {
+    "name":"ajay",
+    "img":"ajay.png",
+    "experience":"5 Years",
+    "guidCharges":"800rs",
+    "guidPlace":[{"place":"National Park","charges":300},{"place":"Hanging garden","charges":400},{"place":"Marine Drive","charges":450},{"place":"Sidhivinayak temple","charges":300}]
+  },
+  {
+    "name":"sanjay",
+    "img":"sanjay.jpg",
+    "experience":"1.5 Years",
+    "guidCharges":"600rs",
+    "guidPlace":[{"place":"National Park","charges":300},{"place":"Marine Drive","charges":450},{"place":"Sidhivinayak temple","charges":300}]
+  },
+  {
+    "name":"deepika",
+    "img":"deepika.png",
+    "experience":"2 Years",
+    "guidCharges":"400rs",
+    "guidPlace":[{"place":"Hanging garden","charges":400},{"place":"Marine Drive","charges":450}]
+  },
+  {
+    "name":"salman",
+    "img":"salman.jpg",
+    "experience":"4 Years",
+    "guidCharges":"800rs",
+    "guidPlace":[{"place":"Mumbai University","charges":750},{"place":"National Park","charges":500},{"place":"Hanging garden","charges":400},{"place":"Juhu","charges":300}]
+  },
+  {
+    "name":"imran",
+    "img":"imran.jpg",
+    "experience":"1 Years",
+    "guidCharges":"400rs",
+    "guidPlace":[{"place":"Haji Ali Dargah","charges":300},{"place":"Warali Sea","charges":200}]
+  },
+  {
+    "name":"karan",
+    "img":"karan.jpg",
+    "experience":"1 Years",
+    "guidCharges":"500rs",
+    "guidPlace":[{"place":"Gate Way of India","charges":200},{"place":"Marine Drive","charges":200}]
+  },
+  {
+    "name":"tom",
+    "img":"tom.png",
+    "experience":"3 Years",
+    "guidCharges":"500rs",
+    "guidPlace":[{"place":"Red fort","charges":200},{"place":"Jama Masjid","charges":300}]
+  },
+  {
+    "name":"herry",
+    "img":"herry.jpg",
+    "experience":"1 Years",
+    "guidCharges":"600rs",
+    "guidPlace":[{"place":"Lotus temple","charges":400},{"place":"Red fort","charges":200},{"place":"Jama Masjid","charges":300}]
+  },
+  {
+    "name":"Pinky",
+    "img":"pinky.png",
+    "experience":"6 months",
+    "guidCharges":"300rs",
+    "guidPlace":[{"place":"Jama Masjid","charges":300},{"place":"Humayun's Tomb","charges":250}]
+  },
+  {
+    "name":"john",
+    "img":"john.jpg",
+    "experience":"8 years",
+    "guidCharges":"1200rs",
+    "guidPlace":[{"place":"Lotus temple","charges":400},{"place":"Lotus temple","charges":400},{"place":"Jama Masjid","charges":300},{"place":"Humayun's Tomb","charges":250}]
+  },
+  {
+    "name":"martin",
+    "img":"martin.jpg",
+    "experience":"2 year",
+    "guidCharges":"500rs",
+    "guidPlace":[{"place":"Qutub minar","charges":250},{"place":"Jama Masjid","charges":300},{"place":"Humayun's Tomb","charges":250}]
+  },
+  {
+    "name":"bob",
+    "img":"bob.png",
+    "experience":"3 year",
+    "guidCharges":"400rs",
+    "guidPlace":[{"place":"Alleppey","charges":250},{"place":"Wayanad","charges":470},{"place":"Cochin","charges":250}]
+  },
+  {
+    "name":"shan",
+    "img":"shan.jpg",
+    "experience":"1 year",
+    "guidCharges":"300rs",
+    "guidPlace":[{"place":"Kovalam","charges":400},{"place":"Munnar","charges":250},{"place":"Kumarakom","charges":470},{"place":"Cochin","charges":250}]
+  },
+  {
+    "name":"luice",
+    "img":"luice.png",
+    "experience":"3 year",
+    "guidCharges":"700rs",
+    "guidPlace":[{"place":"Kumarakom","charges":470},{"place":"Cochin","charges":250},{"place":"Thekkady","charges":400}]
+  },
+  {
+    "name":"babar",
+    "img":"babar.jpg",
+    "experience":"3 year",
+    "guidCharges":"700rs",
+    "guidPlace":[{"place":"Alleppey","charges":250},{"place":"Wayanad","charges":470},{"place":"Thekkady","charges":400}]
+  },
+  {
+    "name":"perry",
+    "img":"perry.jpg",
+    "experience":"3 year",
+    "guidCharges":"700rs",
+    "guidPlace":[{"place":"Alleppey","charges":250},{"place":"Wayanad","charges":470},{"place":"Cochin","charges":250}]
+  },
+  {
+    "name":"kazi",
+    "img":"kazi.png",
+    "experience":"1 year",
+    "guidCharges":"300rs",
+    "guidPlace":[{"place":"Cochin","charges":250},{"place":"Wayanad","charges":470}]
+  }
+]

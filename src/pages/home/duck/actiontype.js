@@ -1,0 +1,2 @@
+export const GET_SEARCH_PLACE ="GET_SEARCH_PLACE";
+export const GET_ALL_GUIDES = "GET_ALL_GUIDES";

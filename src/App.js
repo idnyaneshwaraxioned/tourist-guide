@@ -1,23 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './component/Navbar';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+import Home from './pages/home/Home';
+import Guidelist from './pages/guidelist/Guidelist';
+import Guidedetails from './pages/guidedetails/Guidedetails';
+import Login from './pages/login/Login';
+import { useSelector } from 'react-redux';
+import PrivateRoute from './routes/PrivateRoute';
 
 function App() {
+  const userStatus = useSelector(state => state.loginReducer.userStatus)
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Router>
+        <Navbar />
+        <Switch>
+          <Route exact path='/' component={Home} />
+          {/* <Route exact path='/:guidelist' component={Guidelist} />
+          <Route exact path='/:guidelist/:guidename' component={Guidedetails} /> */}
+          <PrivateRoute exact path='/guide/:guidelist' component={Guidelist}/>
+          <PrivateRoute exact path='/guide/:guidelist/:guidename' component={Guidedetails}/>
+          <Route exact path='/login' component={Login} />
+          <Route component={()=><h1>Page not found...</h1>} />
+        </Switch>
+      </Router>
     </div>
   );
 }
